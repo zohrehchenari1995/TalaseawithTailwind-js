@@ -74,7 +74,7 @@ It demonstrates how financial calculation tools can be implemented in trading pl
 
 Clone the repository:
 
-git clone https://github.com/zohrehchenari1995/TalaSeaTailwind
+git clone https://github.com/zohrehchenari1995/TalaseawithTailwind-js
 
 Open index.html in your browser.
 
