@@ -1,0 +1,58 @@
+@font-face {
+  font-family: "iranyekan";
+  font-style: normal;
+  font-weight: 100;
+  src: url("/postcss/assets/fonts/woff/IRANYekanWebThin.woff") format("woff"),
+    url("/postcss/assets/fonts/ttf/IRANYekanThin.ttf") format("thin");
+}
+@font-face {
+  font-family: "iranyekan";
+  font-style: normal;
+  font-weight: 300;
+  src: url("/postcss/assets/fonts/woff/IRANYekanWebLight.woff") format("woff"),
+    url("/postcss/assets/fonts/ttf/IRANYekanLight.ttf") format("ttf");
+}
+@font-face {
+  font-family: "iranyekan";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/postcss/assets/fonts/woff/IRANYekanWebRegular.woff") format("woff"),
+    url("/postcss/assets/fonts/ttf/IRANYekanRegular.ttf") format("ttf");
+}
+@font-face {
+  font-family: "iranyekan";
+  font-style: normal;
+  font-weight: 500;
+  src: url("/postcss/assets/fonts/woff/IRANYekanWebMedium.woff") format("woff"),
+    url("/postcss/assets/fonts/ttf/IRANYekanMedium.ttf") format("woff");
+}
+@font-face {
+  font-family: "iranyekan";
+  font-style: normal;
+  font-weight: 700;
+  src: url("/postcss/assets/fonts/woff/IRANYekanWebBold.woff") format("woff")
+    url("/postcss/assets/fonts/ttf/IRANYekanBold.ttf") format("ttf");
+}
+@font-face {
+  font-family: "iranyekan";
+  font-style: normal;
+  font-weight: 800;
+  src: url("/postcss/assets/fonts/woff/IRANYekanWebExtraBold.woff")
+      format("woff"),
+    url("/postcss/assets/fonts/ttf/IRANYekanExtraBold.ttf") format("ttf");
+}
+@font-face {
+  font-family: "iranyekan";
+  font-style: normal;
+  font-weight: 900;
+  src: url("/postcss/assets/fonts/woff/IRANYekanWebBlack.woff") format("woff"),
+    url("/postcss/assets/fonts/ttf/IRANYekanBlack.ttf") format("ttf");
+}
+@font-face {
+  font-family: "iranyekan";
+  font-style: normal;
+  font-weight: 950;
+  src: url("/postcss/assets/fonts/woff/IRANYekanWebExtraBlack.woff")
+      format("woff"),
+    url("/postcss/assets/fonts/ttf/IRANYekanExtraBlack.ttf") format("ttf");
+}

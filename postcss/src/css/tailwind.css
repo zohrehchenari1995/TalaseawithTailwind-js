@@ -1,0 +1,13 @@
+@import url("/postcss/src/css/font.css");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer components {
+  .persian-numbers {
+    @apply w-full p-4 rounded-xl border border-gray-400 outline-none text-center flex-1 text-base;
+  }
+}
+ 
