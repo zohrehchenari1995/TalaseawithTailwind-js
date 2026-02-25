@@ -19,7 +19,7 @@ In addition to showcasing technical skills, this calculator serves as a practica
 
 Beyond its technical demonstration, the project highlights my ability to design user-friendly, responsive interfaces that work seamlessly on mobile, tablet, and desktop devices.
 
-## ✨ Features
+### ✨ Features
 🏷️ Calculate gold price including wages, taxes, profit, and daily rate
 
 Implementing real-time calculations using JavaScript
@@ -32,7 +32,7 @@ Building scalable and maintainable front-end architecture
 
 Ensuring seamless responsiveness across mobile, tablet, and desktop devices
 
-🌍 Real-World Application
+### 🌍 Real-World Application
 
 This project simulates a real-world gold price calculation tool that could be used in jewelry stores, gold trading businesses, or financial platforms.
 
